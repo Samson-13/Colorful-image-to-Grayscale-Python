@@ -1,3 +1,4 @@
+# Made by M Samson Badding
 import cv2 as cv
 
 colorImg = cv.imread('color.jpeg')
